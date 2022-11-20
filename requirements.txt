@@ -1,0 +1,6 @@
+streamlit
+cmake
+dlib
+opencv
+scikit-learn
+numpy
